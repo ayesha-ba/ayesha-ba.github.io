@@ -130,7 +130,7 @@ I contributed to a SAP Gold Partner-certified company, specializing in providing
 You can request access for [documentation](https://github.com/ayesha-ba/documentation.git) such as specifications, diagrams, user manuals. 
    
 ### Publications:
- - Comming Soon -
+ - Coming Soon -
    
 ### Recommendations:
 Please find blow recommendations taken from my Linkden Profile.
@@ -148,4 +148,4 @@ Please find blow recommendations taken from my Linkden Profile.
 1. Lean Six Sigma Black Belt Services
 
 ### Visuals/Graphics:
- - Comming Soon -
+ - Coming Soon -
