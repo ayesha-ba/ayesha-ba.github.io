@@ -12,9 +12,7 @@ Phone Number (Direct Call / WhatsApp Messenger): +94777219381
 
 Email: ayesha.fer94@gmail.com
 
-[Linkedin Profile] (https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
-
-[Linkedin Profile](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
+Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
 
 
 ### Education: 
@@ -29,13 +27,17 @@ Certificate in IT
 
 ### PROFESSIONAL QUALIFICATIONS:
 **2023	| Scrum. Org**
-[Professional Scrum Product Owner 1 (PSPO 1)] (./https://www.credly.com/badges/df0ac05b-c776-41be-aa2c-ca1e2c5f81fc/public_url)
+[Professional Scrum Product Owner 1 (PSPO 1)](https://www.credly.com/badges/df0ac05b-c776-41be-aa2c-ca1e2c5f81fc/public_url)
 
 ### ONLINE COURSES / BADGES:
-Great Learning Academy – [Certificate of completion Jira Project Management (./https://olympus1.mygreatlearning.com/course_certificate/YPDCXOMP)
-BCS, The Chartered Institute for IT – [Eat. Scrum. Repeat. The Art of Being Agile] (./https://badgr.com/public/assertions/LVmWVL9hRCmEigzsVtgR0Q?identity__url=https:%2F%2Fdevelop.bcs.org%2Fbadges%2Fbadge.php%3Fhash%3D6bbfbbe92fac0487532e54e4f419ca14612a580b)
-Udemy – [Advanced Business Analysis (CBAP Exam Preparation)] (./https://www.udemy.com/certificate/UC-d64cd089-5a12-4e72-9814-b3155b1e1c10/)
-Atlassian University – [Confluence Fundamentals Badge] (./https://university.atlassian.com/student/award/XzjLsiY11z3mNmHfkrmbh6hA)
+Great Learning Academy – [Certificate of completion Jira Project Management](https://olympus1.mygreatlearning.com/course_certificate/YPDCXOMP)
 
-### Projects:
+BCS, The Chartered Institute for IT – [Eat. Scrum. Repeat. The Art of Being Agile](https://badgr.com/public/assertions/LVmWVL9hRCmEigzsVtgR0Q?identity__url=https:%2F%2Fdevelop.bcs.org%2Fbadges%2Fbadge.php%3Fhash%3D6bbfbbe92fac0487532e54e4f419ca14612a580b)
 
+Udemy – [Advanced Business Analysis (CBAP Exam Preparation)](https://www.udemy.com/certificate/UC-d64cd089-5a12-4e72-9814-b3155b1e1c10/)
+
+Atlassian University – [Confluence Fundamentals Badge](https://university.atlassian.com/student/award/XzjLsiY11z3mNmHfkrmbh6hA)
+
+### Projects | Achievements:
+
+### Publications:
