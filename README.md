@@ -1,5 +1,34 @@
 # Business Analyst | Product Owner
 
+### Contact Details:
+Address: Colombo, Sri Lanka
+
+Phone Number (Direct Call / WhatsApp Messenger): +94777219381 
+
+Email: ayesha.fer94@gmail.com
+
+Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
+
+### Professional Skills:
+**Requirements Analysis:** Proficient in gathering, documenting, and analyzing business requirements to drive IT projects and ensure strategic alignment with business objectives. 
+
+**Data Analysis:** Skilled in extracting actionable insights from data using tools like SQL and Excel to inform and enhance decision-making processes.
+
+**SDLC Expertise:** Experienced in Agile, Scrum, and Waterfall methodologies, showcasing a comprehensive understanding of the project lifecycle and adaptability to different project management approaches.
+
+**Technical Proficiency:** Proficient in a range of IT tools and software, including Jira, Confluence, Excel, MS Project, Figma, and Visio, enabling effective resource management and project implementation.
+
+**Problem-Solving:** Adept at identifying and resolving complex issues through the proposal of data-driven, effective solutions.
+
+**Communication Skills:** Strong ability to bridge the gap between technical and non-technical teams and stakeholders, ensuring effective communication and collaboration across diverse groups.
+
+**Documentation Expertise:** Proficient in creating clear and comprehensive documentation, including business requirement documents, use cases, and process flow diagrams, ensuring clarity and alignment throughout project lifecycles.
+
+**Quality Assurance:** Dedicated to upholding the quality of IT solutions by applying industry-standard QA principles and practices.
+
+**Business Acumen:** Proficient in leveraging industry and market insights to align IT solutions with overarching business objectives, ensuring a strategic approach to technology projects.
+
+
 ### Professional Profile:
 Certified PSPO 1 Business Analyst with a track record of more than 4 years of experience in spearheading software development, implementation, integration, and ongoing application enhancement to ensure utmost customer satisfaction. My expertise spans diverse industries, including payment middleware, SAP-integrated ERP, logistics, manufacturing, bereavement, and pet care.
 Proficient in employing Agile, Waterfall, and MoSCoW methodologies within the software development life cycle (SDLC) to fine-tune project delivery strategies. I excel in the art of requirement gathering analysis, conducting engaging workshops with users and stakeholders, meticulously assessing 'as is' processes, and crafting a vision for the 'to be' state. My toolkit includes the creation of detailed user stories, the deployment of use case diagrams, and the meticulous execution of UAT testing, all pivotal in the pursuit of product excellence.
@@ -61,3 +90,4 @@ Atlassian University – [Confluence Fundamentals Badge](https://university.atla
 
 
 ### Publications:
+ - Comming Soon -
