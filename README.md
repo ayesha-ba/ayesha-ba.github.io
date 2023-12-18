@@ -10,6 +10,8 @@ Email: ayesha.fer94@gmail.com
 
 Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
 
+Download CV: [Ayesha Fernando CV] (https://docs.google.com/document/d/1V4Mqi8P8IS6C1Y6meXXPto9qBBshPu_uEkk2KEH-fyM/edit?usp=sharing)
+
 ### Professional Skills:
 **Requirements Analysis:** Proficient in gathering, documenting, and analyzing business requirements to drive IT projects and ensure strategic alignment with business objectives. 
 
@@ -61,25 +63,89 @@ Udemy – [Advanced Business Analysis (CBAP Exam Preparation)](https://www.udemy
 
 Atlassian University – [Confluence Fundamentals Badge](https://university.atlassian.com/student/award/XzjLsiY11z3mNmHfkrmbh6hA)
 
-### Projects | Achievements:
+### Work Experience:
+**OpusXenta (Pyt) Ltd. - New South Wales, Australia**
+Business Analyst | 01 June 2023 - Present
+
+**Outline:**
+Relocated to the New South Wales office to take on a pivotal role in a hybrid work environment, focusing on digital payment solutions. Collaborated with a dynamic research and development team consisting of six portfolio managers, five team leads, and thirty developers. Contributed to the enhancement of product features for Opuspay, Byondcloud, and Byondpro. Maintained direct reporting relationships with senior leadership, including the SVP, Director of Project Management and Delivery, Global Head of Development, and VP of Global R&D.
+
+**Responsibilities:**
+1. Requirement Gathering and Analysis: Utilized brainstorming sessions, interviews, and observations to gather requirements and create UML diagrams, user stories, and acceptance criteria for in-depth analysis.
+
+2. Requirement Verification: Ensured project quality through frequent inspections, IAT testing, workshops, and demonstrations.
+
+3. Product Backlog Management: Reviewed, prioritized, and refined backlog items, initiating system enhancements for improved user satisfaction.
+
+4. Delivery Planning: Managed resource allocation and closely tracked project milestones. Cross-Functional Support: Provided guidance and resources to marketing and support teams through user manuals, training, and KT sessions.
+
+**Key Achievements and Projects:**
 1. Achieved the rapid development and timely delivery of the inaugural QR Program version in just six weeks. Successfully introduced the solution at the prestigious NFDA International Convention and Expo in 2023, garnering significant attention and positive feedback.
-   
+
 2. Assumed responsibility for SSO integration project in the absence of the developer and business analyst, leading the effort to deliver the initial version within a strict three-month timeline to ensure 100% compliance with ISO standards.
-   
+
 3. Successfully conducted a workshop aimed at introducing Agile tools, Confluence and Jira, to the management team. Demonstrated the benefits of these tools, leading to their enthusiastic adoption, resulting in improved project management and team collaboration.
-   
-4. Boosted revenue by successfully implementing the repayment plan functionality, a critical feature in 'byondpro' product. Additionally, I delivered a tokenized payment solution in 'opuspay,' enhancing revenue streams in both products within a 6-month period.
-   
-5. Achieved a 20% revenue increase by successfully implementing agency payment functionality within Byondcloud product.
-   
-6. Initiated and oversaw the successful implementation of an RFID system, resulting in a remarkable 20% improvement in inventory accuracy and a 15% reduction in losses for Gold Seal Products. This strategic system also optimized production scheduling, leading to a 10% increase in revenue due to more efficient operations.
 
-7. I conducted a comprehensive requirement gap analysis for the Logistic One project, my first project assignment, which I had been developing without a dedicated Business Analyst for six months. Successfully identified and addressed critical gaps in the project's analysis phase, ensuring a more informed and efficient project trajectory.
+**OpusXenta Lanka (PVT) Ltd. - Malabe, Sri Lanka**
+Business Analyst | 08 March 2022 - 31 May 2023
 
-8. Drove complete user satisfaction within a tight 5-month timeline for the SFA project through a collaborative approach. Facilitated a series of effective Teams and face-to-face workshops involving end users, the marketing team, and the development team. Executed three iterative cycles to refine the initial application improvements that were initially rejected by users, resulting in an optimally aligned and well-received solution.
+**Outline:**
+Employed by a Sri Lankan-based subsidiary of an Australian-headquartered company, where I actively contributed to projects following the waterfall methodology. Collaborated seamlessly with a diverse, multinational team, including colleagues from Australia, the Philippines, the United States, the United Kingdom, and more.
 
-### Documentation
+**Key Achievements and Projects:**
+1. Boosted revenue by successfully implementing the repayment plan functionality, a critical feature in 'byondpro' product. Additionally, I delivered a tokenized payment solution in 'opuspay,' enhancing revenue streams in both products within a 6-month period.
+
+2. Achieved a 20% revenue increase by successfully implementing agency payment functionality within Byondcloud product.
+
+**Nor Lanka Manufacturing Ltd (Subsidiary of PDS multinational fashions limited) - Colombo 3, Sri Lanka**
+Business Process Analyst | 01 February 2021 - 08 March 2022
+
+**Outline:**
+In my role with the Business Process Management team, I provided 24/7 live support to system users, ensuring uninterrupted operations and prompt issue resolution. I was responsible for creating essential documentation, including Business Requirement Specifications (BRS) and Scope Documents, and conducting User Acceptance Testing (UAT) to validate system functionality. I also analyzed existing business processes, leading to the development of digital solutions aimed at boosting productivity. One of my key achievements was presenting and demonstrating these solutions to the CIO and department heads, successfully gaining approvals for digitalization initiatives. Reporting directly to the Heads of Digital Transformation, I ensured our efforts were strategically aligned with the organization's goals and objectives.
+
+**Responsibilities:**
+1. Digitalization Projects: Initiated and managed cross-departmental digitalization projects, optimizing processes in finance, commercial, and manufacturing.
+
+2. Effective Communication: Served as the primary communication interface, fostering collaboration among stakeholders, end users, and development teams.
+
+3. Vendor Onboarding: Streamlined vendor onboarding processes within SAP and HID-E systems, improving vendor management and procurement procedures.
+
+4. Data-Driven Decision Making: Proficient in SQL for database data retrieval, facilitating data- driven decision-making and process optimization.
+
+**Key Achievements and Projects:**
+1. Initiated and oversaw the successful implementation of an RFID system, resulting in a remarkable 20% improvement in inventory accuracy and a 15% reduction in losses for Gold Seal Products. This strategic system also optimized production scheduling, leading to a 10% increase in revenue due to more efficient operations.
+
+**Pristine Solutions (Pvt) Ltd. - Colombo 5, Sri Lanka**
+Business Analyst | 01 August 2018 - 04 December 2020 
+**Outline:**
+I contributed to a SAP Gold Partner-certified company, specializing in providing SAP-integrated solutions for local clients in Sri Lanka. In addition, I played a key role in developing a range of products, including solutions for logistics, warehousing, manufacturing, and Sales Force Automation. Collaborating with a 40-members development team, I reported directly to the Heads of Development, engaging in multiple projects and products. This encompassed on-site client visits and active participation in customer meetings, ensuring successful project delivery and client satisfaction.
+
+**Key Achievements and Projects:**
+1. I conducted a comprehensive requirement gap analysis for the Logistic One project, my first project assignment, which I had been developing without a dedicated Business Analyst for six months. Successfully identified and addressed critical gaps in the project's analysis phase, ensuring a more informed and efficient project trajectory.
+
+2. Drove complete user satisfaction within a tight 5-month timeline for the SFA project through a collaborative approach. Facilitated a series of effective Teams and face-to-face workshops involving end users, the marketing team, and the development team. Executed three iterative cycles to refine the initial application improvements that were initially rejected by users, resulting in an optimally aligned and well-received solution.
+
+
+### Samples of Deliverables
 You can request access for [documentation](https://github.com/ayesha-ba/documentation.git) such as specifications, diagrams, user manuals. 
    
 ### Publications:
+ - Comming Soon -
+   
+### Recommendations:
+Please find blow recommendations taken from my Linkden Profile.
+
+![Ruwantha Kahawattage](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ruwantha%20Kahawattage.png)
+
+![Ken Munday](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ken%20Munday.png)
+
+![Dulmini Ranasinghe](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Dulmini%20Ranasinghe.png)
+
+![Supun Batage](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Supun%20batagota.png)
+
+
+### Ongoing Professional Development:
+1. Lean Six Sigma Black Belt Services
+
+### Visuals/Graphics:
  - Comming Soon -
