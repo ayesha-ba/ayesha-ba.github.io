@@ -1,6 +1,4 @@
-# Ayesha Fernando 
-## PSPO 1 | BIIT (Sp) | PGD in Examination | Lean Six Sigma Black Belt (Reading)
-
+# Business Analyst | Product Owner
 
 ### Professional Profile:
 Certified PSPO 1 Business Analyst with a track record of more than 4 years of experience in spearheading software development, implementation, integration, and ongoing application enhancement to ensure utmost customer satisfaction. My expertise spans diverse industries, including payment middleware, SAP-integrated ERP, logistics, manufacturing, bereavement, and pet care.
