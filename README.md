@@ -137,6 +137,8 @@ Please find blow recommendations taken from my Linkden Profile.
 
 ![Ruwantha Kahawattage](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ruwantha%20Kahawattage.png)
 
+![Octocat](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ruwantha%20Kaha)
+
 ![Ken Munday](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ken%20Munday.png)
 
 ![Dulmini Ranasinghe](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Dulmini%20Ranasinghe.png)
