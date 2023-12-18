@@ -79,7 +79,7 @@ Atlassian University – [Confluence Fundamentals Badge](https://university.atla
 8. Drove complete user satisfaction within a tight 5-month timeline for the SFA project through a collaborative approach. Facilitated a series of effective Teams and face-to-face workshops involving end users, the marketing team, and the development team. Executed three iterative cycles to refine the initial application improvements that were initially rejected by users, resulting in an optimally aligned and well-received solution.
 
 ### Documentation
- - Comming Soon -
+You can request access for [documentation](https://github.com/ayesha-ba/documentation.git) such as specifications, diagrams, user manuals. 
    
 ### Publications:
  - Comming Soon -
