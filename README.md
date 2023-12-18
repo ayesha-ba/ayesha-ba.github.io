@@ -35,16 +35,6 @@ Certified PSPO 1 Business Analyst with a track record of more than 4 years of ex
 Proficient in employing Agile, Waterfall, and MoSCoW methodologies within the software development life cycle (SDLC) to fine-tune project delivery strategies. I excel in the art of requirement gathering analysis, conducting engaging workshops with users and stakeholders, meticulously assessing 'as is' processes, and crafting a vision for the 'to be' state. My toolkit includes the creation of detailed user stories, the deployment of use case diagrams, and the meticulous execution of UAT testing, all pivotal in the pursuit of product excellence.
 Among my recent achievements, I steered the Till JS integration project to secure PCI compliance and device configuration. Furthermore, I played a pivotal role in obtaining POS accreditation for the Cloud ASYNC system, showcasing my ability to drive projects to successful outcomes while maintaining a sharp focus on quality and compliance.
 
-### Contact Details:
-Address: Colombo, Sri Lanka
-
-Phone Number (Direct Call / WhatsApp Messenger): +94777219381 
-
-Email: ayesha.fer94@gmail.com
-
-Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
-
-
 ### Education: 
 **2015 - 2019 -> Uva Wellassa University of Sri Lanka**
 
