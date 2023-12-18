@@ -7,9 +7,15 @@ Among my recent achievements, I steered the Till JS integration project to secur
 
 ### Contact Details:
 Address: Colombo, Sri Lanka
+
 Phone Number (Direct Call / WhatsApp Messenger): +94777219381 
+
 Email: ayesha.fer94@gmail.com
+
 [Linkedin Profile] (https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
+
+[![Linkedin Profile](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
+
 
 ### Education: 
 **2015 - 2019 | Uva Wellassa University of Sri Lanka**
