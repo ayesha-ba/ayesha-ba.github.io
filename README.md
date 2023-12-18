@@ -16,7 +16,7 @@ Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-
 
 
 ### Education: 
-**2015 - 2019 | Uva Wellassa University of Sri Lanka**
+**2015 - 2019** **|** **Uva Wellassa University of Sri Lanka**
 
 Special Degree of Bachelor of Industrial Information Technology (BIIT)
 
