@@ -20,7 +20,7 @@ Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-
 
 Special Degree of Bachelor of Industrial Information Technology (BIIT)
 
-**2018 - 2019 | British Computer Society Professional**
+**2018 - 2019 -> British Computer Society Professional**
 
 Graduate Diploma in Examination 
 
@@ -51,6 +51,12 @@ Atlassian University – [Confluence Fundamentals Badge](https://university.atla
 4. Boosted revenue by successfully implementing the repayment plan functionality, a critical feature in 'byondpro' product. Additionally, I delivered a tokenized payment solution in 'opuspay,' enhancing revenue streams in both products within a 6-month period.
    
 5. Achieved a 20% revenue increase by successfully implementing agency payment functionality within Byondcloud product.
+   
+6. Initiated and oversaw the successful implementation of an RFID system, resulting in a remarkable 20% improvement in inventory accuracy and a 15% reduction in losses for Gold Seal Products. This strategic system also optimized production scheduling, leading to a 10% increase in revenue due to more efficient operations.
+
+7. I conducted a comprehensive requirement gap analysis for the Logistic One project, my first project assignment, which I had been developing without a dedicated Business Analyst for six months. Successfully identified and addressed critical gaps in the project's analysis phase, ensuring a more informed and efficient project trajectory.
+
+8. Drove complete user satisfaction within a tight 5-month timeline for the SFA project through a collaborative approach. Facilitated a series of effective Teams and face-to-face workshops involving end users, the marketing team, and the development team. Executed three iterative cycles to refine the initial application improvements that were initially rejected by users, resulting in an optimally aligned and well-received solution.
 
 
 
