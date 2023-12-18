@@ -137,13 +137,11 @@ Please find blow recommendations taken from my Linkden Profile.
 
 <img width="787" alt="Ruwantha Kahawattage" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/7ef5fe5b-daf2-4d13-9308-587ccf81d047">
 
-![Octocat](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ruwantha%20Kaha)
+<img width="773" alt="Ken Munday" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/0d4d3131-7843-4c70-9beb-baa721199830">
 
-![Ken Munday](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ken%20Munday.png)
+<img width="770" alt="Dulmini Ranasinghe" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/ddb16f80-b7f8-4fe7-b352-93b7d2e4e441">
 
-![Dulmini Ranasinghe](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Dulmini%20Ranasinghe.png)
-
-![Supun Batage](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Supun%20batagota.png)
+<img width="790" alt="Supun batagota" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/d1c1a47d-6364-4c99-88c2-a1f58dd5eccf">
 
 
 ### Ongoing Professional Development:
