@@ -22,7 +22,7 @@ Special Degree of Bachelor of Industrial Information Technology (BIIT)
 
 **2018 - 2019** **|** **British Computer Society Professional**
 
-Graduate Diploma in Examination | British Computer Society Diploma in IT
+Graduate Diploma in Examination 
 
 **2017** **|** **British Computer Society**
 
@@ -42,5 +42,16 @@ Udemy – [Advanced Business Analysis (CBAP Exam Preparation)](https://www.udemy
 Atlassian University – [Confluence Fundamentals Badge](https://university.atlassian.com/student/award/XzjLsiY11z3mNmHfkrmbh6hA)
 
 ### Projects | Achievements:
+1. Achieved the rapid development and timely delivery of the inaugural QR Program version in just six weeks. Successfully introduced the solution at the prestigious NFDA International Convention and Expo in 2023, garnering significant attention and positive feedback.
+   
+2. Assumed responsibility for SSO integration project in the absence of the developer and business analyst, leading the effort to deliver the initial version within a strict three-month timeline to ensure 100% compliance with ISO standards.
+   
+3. Successfully conducted a workshop aimed at introducing Agile tools, Confluence and Jira, to the management team. Demonstrated the benefits of these tools, leading to their enthusiastic adoption, resulting in improved project management and team collaboration.
+   
+4. Boosted revenue by successfully implementing the repayment plan functionality, a critical feature in 'byondpro' product. Additionally, I delivered a tokenized payment solution in 'opuspay,' enhancing revenue streams in both products within a 6-month period.
+   
+5. Achieved a 20% revenue increase by successfully implementing agency payment functionality within Byondcloud product.
+
+
 
 ### Publications:
