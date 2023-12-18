@@ -1,5 +1,5 @@
 # Ayesha Fernando 
-## PSPO 1 | BIIT | PGD in Examination | Lean Six Sigma Black Belt (Reading)
+## PSPO 1 | BIIT (Sp) | PGD in Examination | Lean Six Sigma Black Belt (Reading)
 
 
 ### Professional Profile:
@@ -18,6 +18,10 @@ Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-
 
 
 ### Education: 
+**2015 - 2019 | Uva Wellassa University of Sri Lanka**
+
+Special Degree of Bachelor of Industrial Information Technology (BIIT)
+
 **2015 - 2019 | Uva Wellassa University of Sri Lanka**
 
 Special Degree of Bachelor of Industrial Information Technology (BIIT)
