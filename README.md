@@ -14,7 +14,7 @@ Email: ayesha.fer94@gmail.com
 
 [Linkedin Profile] (https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
 
-[![Linkedin Profile](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
+[Linkedin Profile](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
 
 
 ### Education: 
