@@ -135,7 +135,7 @@ You can request access for [documentation](https://github.com/ayesha-ba/document
 ### Recommendations:
 Please find blow recommendations taken from my Linkden Profile.
 
-![Ruwantha Kahawattage](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ruwantha%20Kahawattage.png)
+<img width="787" alt="Ruwantha Kahawattage" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/7ef5fe5b-daf2-4d13-9308-587ccf81d047">
 
 ![Octocat](https://github.com/ayesha-ba/ayesha-ba.github.io/blob/main/Recommendations/Ruwantha%20Kaha)
 
