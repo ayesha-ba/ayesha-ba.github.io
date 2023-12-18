@@ -10,7 +10,7 @@ Email: ayesha.fer94@gmail.com
 
 Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-a060a0127/)
 
-Download CV: [Ayesha Fernando CV] (https://docs.google.com/document/d/1V4Mqi8P8IS6C1Y6meXXPto9qBBshPu_uEkk2KEH-fyM/edit?usp=sharing)
+Download CV: [Ayesha Fernando CV](https://docs.google.com/document/d/1V4Mqi8P8IS6C1Y6meXXPto9qBBshPu_uEkk2KEH-fyM/edit?usp=sharing)
 
 ### Professional Skills:
 **Requirements Analysis:** Proficient in gathering, documenting, and analyzing business requirements to drive IT projects and ensure strategic alignment with business objectives. 
