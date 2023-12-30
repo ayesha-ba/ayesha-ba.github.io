@@ -13,29 +13,26 @@ Linkedin Profile: [Ayesha Fernando](https://www.linkedin.com/in/ayesha-fernando-
 Download CV: [Ayesha Fernando CV](https://docs.google.com/document/d/1V4Mqi8P8IS6C1Y6meXXPto9qBBshPu_uEkk2KEH-fyM/edit?usp=sharing)
 
 ### Professional Skills:
-**Requirements Analysis:** Proficient in gathering, documenting, and analyzing business requirements to drive IT projects and ensure strategic alignment with business objectives. 
 
-**Data Analysis:** Skilled in extracting actionable insights from data using tools like SQL and Excel to inform and enhance decision-making processes.
-
-**SDLC Expertise:** Experienced in Agile, Scrum, and Waterfall methodologies, showcasing a comprehensive understanding of the project lifecycle and adaptability to different project management approaches.
-
-**Technical Proficiency:** Proficient in a range of IT tools and software, including Jira, Confluence, Excel, MS Project, Figma, and Visio, enabling effective resource management and project implementation.
-
-**Problem-Solving:** Adept at identifying and resolving complex issues through the proposal of data-driven, effective solutions.
-
-**Communication Skills:** Strong ability to bridge the gap between technical and non-technical teams and stakeholders, ensuring effective communication and collaboration across diverse groups.
-
-**Documentation Expertise:** Proficient in creating clear and comprehensive documentation, including business requirement documents, use cases, and process flow diagrams, ensuring clarity and alignment throughout project lifecycles.
-
-**Quality Assurance:** Dedicated to upholding the quality of IT solutions by applying industry-standard QA principles and practices.
-
-**Business Acumen:** Proficient in leveraging industry and market insights to align IT solutions with overarching business objectives, ensuring a strategic approach to technology projects.
-
+| Skill | Description |
+| --- | --- |
+| Requirements Analysis | Proficient in gathering, documenting, and analyzing business requirements to drive IT projects and ensure strategic alignment with business objectives.  |
+| Data Analysis | Skilled in extracting actionable insights from data using tools like SQL and Excel to inform and enhance decision-making processes. |
+| SDLC Expertise | Experienced in Agile, Scrum, and Waterfall methodologies, showcasing a comprehensive understanding of the project lifecycle and adaptability to different project management approaches |
+| Technical Proficiency | Proficient in a range of IT tools and software, including Jira, Confluence, Excel, MS Project, Figma, and Visio, enabling effective resource management and project implementation. |
+| Problem-Solving | Adept at identifying and resolving complex issues through the proposal of data-driven, effective solutions. |
+| Documentation Expertise | Proficient in creating clear and comprehensive documentation, including business requirement documents, use cases, and process flow diagrams, ensuring clarity and alignment throughout project lifecycles |
+| Quality Assurance | Dedicated to upholding the quality of IT solutions by applying industry-standard QA principles and practices. |
+| Technical Proficiency | Proficient in a range of IT tools and software, including Jira, Confluence, Excel, MS Project, Figma, and Visio, enabling effective resource management and project implementation. |
+| Business Acumen | Proficient in leveraging industry and market insights to align IT solutions with overarching business objectives, ensuring a strategic approach to technology projects. |
 
 ### Professional Profile:
 Certified PSPO 1 Business Analyst with a track record of 5 years of experience in spearheading software development, implementation, integration, and ongoing application enhancement to ensure utmost customer satisfaction. My expertise spans diverse industries, including payment middleware, SAP-integrated ERP, logistics, manufacturing, bereavement, and pet care.
 Proficient in employing Agile, Waterfall, and MoSCoW methodologies within the software development life cycle (SDLC) to fine-tune project delivery strategies. I excel in the art of requirement gathering analysis, conducting engaging workshops with users and stakeholders, meticulously assessing 'as is' processes, and crafting a vision for the 'to be' state. My toolkit includes the creation of detailed user stories, the deployment of use case diagrams, and the meticulous execution of UAT testing, all pivotal in the pursuit of product excellence.
 Among my recent achievements, I steered the Till JS integration project to secure PCI compliance and device configuration. Furthermore, I played a pivotal role in obtaining POS accreditation for the Cloud ASYNC system, showcasing my ability to drive projects to successful outcomes while maintaining a sharp focus on quality and compliance.
+
+### Domain:
+SAP / ERP system | Payment | Manufacturing | Logistics and Warehouse Management | Bereavements | CRM systems
 
 ### Education: 
 **2015 - 2019 -> Uva Wellassa University of Sri Lanka**
@@ -62,6 +59,9 @@ BCS, The Chartered Institute for IT – [Eat. Scrum. Repeat. The Art of Being Ag
 Udemy – [Advanced Business Analysis (CBAP Exam Preparation)](https://www.udemy.com/certificate/UC-d64cd089-5a12-4e72-9814-b3155b1e1c10/)
 
 Atlassian University – [Confluence Fundamentals Badge](https://university.atlassian.com/student/award/XzjLsiY11z3mNmHfkrmbh6hA)
+
+### Ongoing Professional Development:
+1. Lean Six Sigma Black Belt Services
 
 ### Project Overview
 
@@ -263,24 +263,26 @@ Please find blow recommendations taken from my Linkden Profile.
 <img width="790" alt="Supun batagota" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/d1c1a47d-6364-4c99-88c2-a1f58dd5eccf">
 
 
-### Ongoing Professional Development:
-1. Lean Six Sigma Black Belt Services
+### Business Analysis Artifacts:
+1) UML Diagrams
+![Copy of opuspay registration process v0 2](https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/ce3a3689-cf82-4226-a7fd-466e82ddccaf)
 
-### Visuals/Graphics:
- - Coming Soon -
+![Copy of OpusPay - Hosted Payment Page - Sequence Diagram](https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/cfaf2d01-3644-4672-8e98-61738342ade5)
+
+   
+3) Mind Map
+   -coming soon-
+5) User Stories
+   -coming soon-
+7) Wireframes
+   -coming soon-
+
+
 
 ### Extra Curricular Activities:
 1. Executive Committee member in welfare society at Nor Lanka (Pvt) Ltd.
 2. Editor of Women in Engineering Affinity Group of IEEE Uva Wellassa University Branch VP Education Gavel Club of Uva Wellassa University
 3. Event Coordinator of SHECODERESS v0.1, the first- ever women hackathon in Sri Lanka
-
-### Domain:
-1. SAP / ERP system
-2. Payment
-3. Manufacturing
-4. Logistics and Warehouse Management
-5. Bereavements
-6. CRM systems
 
 
    
