@@ -33,7 +33,7 @@ Download CV: [Ayesha Fernando CV](https://docs.google.com/document/d/1V4Mqi8P8IS
 
 
 ### Professional Profile:
-Certified PSPO 1 Business Analyst with a track record of more than 4 years of experience in spearheading software development, implementation, integration, and ongoing application enhancement to ensure utmost customer satisfaction. My expertise spans diverse industries, including payment middleware, SAP-integrated ERP, logistics, manufacturing, bereavement, and pet care.
+Certified PSPO 1 Business Analyst with a track record of 5 years of experience in spearheading software development, implementation, integration, and ongoing application enhancement to ensure utmost customer satisfaction. My expertise spans diverse industries, including payment middleware, SAP-integrated ERP, logistics, manufacturing, bereavement, and pet care.
 Proficient in employing Agile, Waterfall, and MoSCoW methodologies within the software development life cycle (SDLC) to fine-tune project delivery strategies. I excel in the art of requirement gathering analysis, conducting engaging workshops with users and stakeholders, meticulously assessing 'as is' processes, and crafting a vision for the 'to be' state. My toolkit includes the creation of detailed user stories, the deployment of use case diagrams, and the meticulous execution of UAT testing, all pivotal in the pursuit of product excellence.
 Among my recent achievements, I steered the Till JS integration project to secure PCI compliance and device configuration. Furthermore, I played a pivotal role in obtaining POS accreditation for the Cloud ASYNC system, showcasing my ability to drive projects to successful outcomes while maintaining a sharp focus on quality and compliance.
 
@@ -63,68 +63,185 @@ Udemy – [Advanced Business Analysis (CBAP Exam Preparation)](https://www.udemy
 
 Atlassian University – [Confluence Fundamentals Badge](https://university.atlassian.com/student/award/XzjLsiY11z3mNmHfkrmbh6hA)
 
-### Work Experience:
-**OpusXenta (Pyt) Ltd. - New South Wales, Australia**
-Business Analyst | 01 June 2023 - Present
+### Project Overview
 
-**Outline:**
-Relocated to the New South Wales office to take on a pivotal role in a hybrid work environment, focusing on digital payment solutions. Collaborated with a dynamic research and development team consisting of six portfolio managers, five team leads, and thirty developers. Contributed to the enhancement of product features for Opuspay, Byondcloud, and Byondpro. Maintained direct reporting relationships with senior leadership, including the SVP, Director of Project Management and Delivery, Global Head of Development, and VP of Global R&D.
+### 1. opuspay 
+Simplified Payment Processing for Cemeteries, Funeral Homes & Crematories
+Simplify the way you accept payments with opuspay. Fully integrated with byondcloud and byondpro, opuspay saves staff time and effort.
 
-**Responsibilities:**
-1. Requirement Gathering and Analysis: Utilized brainstorming sessions, interviews, and observations to gather requirements and create UML diagrams, user stories, and acceptance criteria for in-depth analysis.
+Integrated Payment Gateways: Payrix, Linkly
 
-2. Requirement Verification: Ensured project quality through frequent inspections, IAT testing, workshops, and demonstrations.
+#### What is the difference between opuspay and more general payment options? 
 
-3. Product Backlog Management: Reviewed, prioritized, and refined backlog items, initiating system enhancements for improved user satisfaction.
+opuspay stands out from general payment processors due to its tailored features for the specific needs of the industries it serves, such as funeral homes. This funeral home, cemetery and crematory payment processor not only handles standard payment processing efficiently but also offers specialized tools for managing memorial funds, donations, and other related financial tasks unique to the deathcare industry. This specialization enhances user experience and streamlines processes.
 
-4. Delivery Planning: Managed resource allocation and closely tracked project milestones. Cross-Functional Support: Provided guidance and resources to marketing and support teams through user manuals, training, and KT sessions.
+#### Integrated Payments
+Do away with manual payment processing. Seamlessly integrated with your management software, opuspay makes payment collection fast and easy.
 
-**Key Achievements and Projects:**
-1. Achieved the rapid development and timely delivery of the inaugural QR Program version in just six weeks. Successfully introduced the solution at the prestigious NFDA International Convention and Expo in 2023, garnering significant attention and positive feedback.
+#### No Manual Effort
+Support your team with an easy-to-use system. opuspay directly connects your payments to your management software—saving time and increasing efficiency.
 
-2. Assumed responsibility for SSO integration project in the absence of the developer and business analyst, leading the effort to deliver the initial version within a strict three-month timeline to ensure 100% compliance with ISO standards.
+#### Reconciliations
+Reconcile your billing, payment, and banking transactions quickly and easily. An automated system reduces the risk of error and supports your staff.
 
-3. Successfully conducted a workshop aimed at introducing Agile tools, Confluence and Jira, to the management team. Demonstrated the benefits of these tools, leading to their enthusiastic adoption, resulting in improved project management and team collaboration.
+#### Better Customer Service
+Improve customer service with real-time transactions. Quickly process payments across all channels—in the office or online.
 
-**OpusXenta Lanka (PVT) Ltd. - Malabe, Sri Lanka**
-Business Analyst | 08 March 2022 - 31 May 2023
+<img width="526" alt="image" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/798164d6-d88c-4866-b1d6-c7ae7d42052a">
 
-**Outline:**
-Employed by a Sri Lankan-based subsidiary of an Australian-headquartered company, where I actively contributed to projects following the waterfall methodology. Collaborated seamlessly with a diverse, multinational team, including colleagues from Australia, the Philippines, the United States, the United Kingdom, and more.
 
-**Key Achievements and Projects:**
-1. Boosted revenue by successfully implementing the repayment plan functionality, a critical feature in 'byondpro' product. Additionally, I delivered a tokenized payment solution in 'opuspay,' enhancing revenue streams in both products within a 6-month period.
+### 2. LogisticsOne
+Logistics & Warehouse Management Solution is a complete Enterprise Resource Planning system for managing inventory, warehouse space and procurement. Manage your logistics from wherever you are, all while improving your customer service.
 
-2. Achieved a 20% revenue increase by successfully implementing agency payment functionality within Byondcloud product.
+A robust, flexible solution that scales to your business’s growing needs.
+Improve operational efficiency, customer service and profitability by automating, streamlining and integrating your business processes with Logistic One.
+A modern business management solution that adapts to the ever-changing, global needs of the freight and logistics industry.
 
-**Nor Lanka Manufacturing Ltd (Subsidiary of PDS multinational fashions limited) - Colombo 3, Sri Lanka**
-Business Process Analyst | 01 February 2021 - 08 March 2022
+Main Customer: Scanwell 
 
-**Outline:**
-In my role with the Business Process Management team, I provided 24/7 live support to system users, ensuring uninterrupted operations and prompt issue resolution. I was responsible for creating essential documentation, including Business Requirement Specifications (BRS) and Scope Documents, and conducting User Acceptance Testing (UAT) to validate system functionality. I also analyzed existing business processes, leading to the development of digital solutions aimed at boosting productivity. One of my key achievements was presenting and demonstrating these solutions to the CIO and department heads, successfully gaining approvals for digitalization initiatives. Reporting directly to the Heads of Digital Transformation, I ensured our efforts were strategically aligned with the organization's goals and objectives.
+Core Components of LogisticsOne:
+1. Job management.
+2. Warehouse management.
+3. Outbound & inbound logistics.
+4. Inventory management.
+5. Milk run logistics.
+6. Scheduling.
+7. Finance.
+8. Labor management.
+9. Work order/special order.
+10. Bin location handling.
 
-**Responsibilities:**
-1. Digitalization Projects: Initiated and managed cross-departmental digitalization projects, optimizing processes in finance, commercial, and manufacturing.
+Key Features:
+1. Increased visibility of your business’s activities in 3PL.
+2. Support for multi-accounts and multi-warehouses.
+3. Work smarter by defining customer-specific operational processes and workflows.
+4. Manage jobs mobily.
+5. Complete inbound and outbound processing.
+6. Track quantity and quality control of your goods.
+7. Create work orders and special processing documents.
+8. Complete follow-ups.
+9. Configure your notification alerts and approvals to meet your organization’s unique needs.
+10. Track your stock using barcodes or RFID.
+11. Manage your inventory.
+12. Support for billing, revenue and cost management activities.
+13. Use the Labor Management module to track each employee’s performance individually.
+14. Scheduling & job management.
+15. Generate reports and business intelligence.
+16. Use profile management to configure users’ roles and rules.
 
-2. Effective Communication: Served as the primary communication interface, fostering collaboration among stakeholders, end users, and development teams.
+<img width="298" alt="image" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/8590ee28-cc7c-41d6-8e9e-dcb202dd5944">
 
-3. Vendor Onboarding: Streamlined vendor onboarding processes within SAP and HID-E systems, improving vendor management and procurement procedures.
 
-4. Data-Driven Decision Making: Proficient in SQL for database data retrieval, facilitating data- driven decision-making and process optimization.
+### 3. HID-e 
+This is SAP integrated application, can be used for tracking export and import daily trackings. 
 
-**Key Achievements and Projects:**
-1. Initiated and oversaw the successful implementation of an RFID system, resulting in a remarkable 20% improvement in inventory accuracy and a 15% reduction in losses for Gold Seal Products. This strategic system also optimized production scheduling, leading to a 10% increase in revenue due to more efficient operations.
+Main Features: 
+1. Technology Integration:
+Implementing technology solutions for automation and efficiency, such as Enterprise Resource Planning (ERP) systems, Customs Management Software, and Electronic Data Interchange (EDI).
 
-**Pristine Solutions (Pvt) Ltd. - Colombo 5, Sri Lanka**
-Business Analyst | 01 August 2018 - 04 December 2020 
-**Outline:**
-I contributed to a SAP Gold Partner-certified company, specializing in providing SAP-integrated solutions for local clients in Sri Lanka. In addition, I played a key role in developing a range of products, including solutions for logistics, warehousing, manufacturing, and Sales Force Automation. Collaborating with a 40-members development team, I reported directly to the Heads of Development, engaging in multiple projects and products. This encompassed on-site client visits and active participation in customer meetings, ensuring successful project delivery and client satisfaction.
+2. Payment and Finance:
+Managing international payment transactions, considering different payment methods (letter of credit, documentary collection, open account).
+Adhering to international banking practices and regulations.
 
-**Key Achievements and Projects:**
-1. I conducted a comprehensive requirement gap analysis for the Logistic One project, my first project assignment, which I had been developing without a dedicated Business Analyst for six months. Successfully identified and addressed critical gaps in the project's analysis phase, ensuring a more informed and efficient project trajectory.
+3. Customs Clearance:
+Facilitating the smooth clearance of goods through customs.
+Ensuring that all necessary duties, taxes, and tariffs are paid.
+Handling any customs-related issues or inspections.
 
-2. Drove complete user satisfaction within a tight 5-month timeline for the SFA project through a collaborative approach. Facilitated a series of effective Teams and face-to-face workshops involving end users, the marketing team, and the development team. Executed three iterative cycles to refine the initial application improvements that were initially rejected by users, resulting in an optimally aligned and well-received solution.
+4. Documentation and Paperwork:
+Managing the preparation and submission of required documents such as invoices, packing lists, certificates of origin, bills of lading, and other shipping documents.
+Accuracy in documentation is crucial for customs clearance and to avoid delays or penalties.
 
+
+### 4. byondpro
+A Comprehensive Solution for Death Care Management
+
+Managing your death care business is complex. Get a management solution that is simple and streamlined.
+That is why OpusXenta created byondpro—the complete business death care management solution that was purpose-built for the death care industry. With byondpro, funeral homes, cemeteries, and crematories can build efficient operations, satisfy compliance, manage financials, and, most importantly, deliver quality service to the families they serve.
+
+### A Complete Solution for Cemeteries:
+OpusXenta offers a comprehensive death care management solution designed to address all aspects of your cemetery’s operations. From managing finances and ensuring compliance to optimizing mapping and enhancing customer service, our software is the key to unlocking productivity, growth in revenue, and increased profitability.
+
+1. Mapping
+With our cemetery mapping software, digital GPS-enabled maps are fully integrated to both your operational processes and your public-facing services.
+
+2. Records Management and Compliance
+Digitize your records and create a comprehensive, compliant and usable data resource.
+
+3. Inventory Management
+Track and manage your memorial locations and inventory availability based on user-defined segmentation.
+
+4. Sales and Bookings
+Manage your entire sales process from leads to quotes, bookings, billing, and after service follow-up.
+
+5. Pre-need Contracts and Redemptions
+Provide for both at-need and before-need transactions, track contracts and redemptions, and manage bookings effectively.
+
+6. Grounds Management
+Streamline the delivery of your services, view the progress of work orders, and ensure all team members are updated.
+
+### Powerful Software for Funeral Homes:
+Get a wealth of capabilities for your funeral home. OpusXenta’s funeral booking system assists you with everything from finding new customers through to after service customer care.
+
+1. Funeral Service Planning
+Manage all aspects of a funeral from a single point to smoothly plan and execute a welcoming service.
+
+2. First Call and Transfers
+Streamline the first call and transfer process ensuring your staff are informed every step of the way. Capture all first call details on a single screen, track all transfers and keep up to date with automated notifications.
+
+3. Mortuary Care
+Manage your mortuary efficiently and minimize the possibility of error by keeping track of all details regarding patient collection, storage, authorizations, and service requests in one location.
+
+4. Records Management
+Know your customers and build lasting relationships with our record keeping solution. byondpro allows you to capture all the information you need with customizable data fields.
+
+5. Personal Effects Register
+Ensure all personal items are assigned, tracked and properly cared for with a comprehensive list of personal effects.
+
+6. Pre-need Contracts and Redemptions
+Provide for both at-need and before-need transactions, track pre-need contracts, trusts, and redemptions.
+
+7. Relationship Tracker
+Build a view of the entire family and other relationships to form a valuable contact base for ongoing communication and sales.
+
+
+### 5. byondcloud
+
+A Flexible Cloud Platform for Death Care
+Delivering Change. Supporting Tradition.
+In today’s “always-on” world, more people go online to research or to transact than through any other medium.
+
+byondcloud is the online platform that complements the traditional way of running your death care business while providing the capabilities needed to navigate the shift toward the digital world.
+
+Main Features:
+
+1. Manage Arrangements and Bookings
+With the byondcloud online funeral booking manager function, funeral homes can now begin arrangements anywhere and at any time – saving time and stress for you and for families.
+
+Cemeteries and crematories can provide scheduling information and take bookings 24/7, and get simplified booking processes while also creating new business opportunities through online search capabilities.
+
+2. Manage Care Programs
+Funeral homes, cemeteries, and crematories can create a range of new service offerings, creating revenue growth opportunities through providing Care Programs.
+
+Provide families and estates with the ability to maintain memorial locations and celebrate important personal and cultural dates and events.
+
+3. Track and Manage Endowment Funds
+Maintenance of your business is important, and it’s critical to monitor the availability of funds to achieve this. Funds Manager helps you with tracking and managing endowments and other investments across your portfolio of trusts.
+
+4. Find Plots Easily with MapMakr
+Build customer and community engagement by showcasing your cemetery through high-resolution imagery while also streamlining your operations and tracking your memorial locations using state-of-the-art GPS technology.
+
+5. Reach Customers with MarketMakr
+Amplify the way you serve customers with marketmakr. Now included with byondcloud, marketmakr makes it easy for you to start promoting your cemetery, crematory or funeral home more efficiently so you can showcase your products, services, pricing, and facilities, and transact directly through your website.
+
+5. Streamline Workflows for Masons
+Cemeteries and masons can streamline their monument permit process with byondcloud. OpusXenta’s cemetery management system offers an easy-to-use online form, automated applications and a straightforward approval process so you can save time and ensure adherence to rules and regulations.
+
+6. Simplify Proxy Voting
+Manage proxy votes efficiently for all your rights and stakeholders. Proxy Manager is a tool for managing proxy votes that simplifies the entire process by distributing documentation, recording responses, and summarising results quickly and easily.
+
+7. Simplify Proxy Voting
+Manage proxy votes efficiently for all your rights and stakeholders. Proxy Manager is a tool for managing proxy votes that simplifies the entire process by distributing documentation, recording responses, and summarising results quickly and easily.
 
 ### Samples of Deliverables
 You can request access for [documentation](https://github.com/ayesha-ba/documentation.git) such as specifications, diagrams, user manuals. 
@@ -156,10 +273,12 @@ Please find blow recommendations taken from my Linkden Profile.
 3. Event Coordinator of SHECODERESS v0.1, the first- ever women hackathon in Sri Lanka
 
 ### Domain:
-1. SAP
+1. SAP / ERP system
 2. Payment
 3. Manufacturing
 4. Logistics and Warehouse Management
 5. Bereavements
+6. CRM systems
+
 
    
