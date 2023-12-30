@@ -71,20 +71,22 @@ Simplify the way you accept payments with opuspay. Fully integrated with byondcl
 
 Integrated Payment Gateways: Payrix, Linkly
 
-#### What is the difference between opuspay and more general payment options? 
+What is the difference between opuspay and more general payment options? 
 
 opuspay stands out from general payment processors due to its tailored features for the specific needs of the industries it serves, such as funeral homes. This funeral home, cemetery and crematory payment processor not only handles standard payment processing efficiently but also offers specialized tools for managing memorial funds, donations, and other related financial tasks unique to the deathcare industry. This specialization enhances user experience and streamlines processes.
 
-#### Integrated Payments
+Main Features:
+
+1. Integrated Payments
 Do away with manual payment processing. Seamlessly integrated with your management software, opuspay makes payment collection fast and easy.
 
-#### No Manual Effort
+2. No Manual Effort
 Support your team with an easy-to-use system. opuspay directly connects your payments to your management software—saving time and increasing efficiency.
 
-#### Reconciliations
+3. Reconciliations
 Reconcile your billing, payment, and banking transactions quickly and easily. An automated system reduces the risk of error and supports your staff.
 
-#### Better Customer Service
+4. Better Customer Service
 Improve customer service with real-time transactions. Quickly process payments across all channels—in the office or online.
 
 <img width="526" alt="image" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/798164d6-d88c-4866-b1d6-c7ae7d42052a">
