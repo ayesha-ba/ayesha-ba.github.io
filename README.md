@@ -149,3 +149,17 @@ Please find blow recommendations taken from my Linkden Profile.
 
 ### Visuals/Graphics:
  - Coming Soon -
+
+### Extra Curricular Activities:
+1. Executive Committee member in welfare society at Nor Lanka (Pvt) Ltd.
+2. Editor of Women in Engineering Affinity Group of IEEE Uva Wellassa University Branch VP Education Gavel Club of Uva Wellassa University
+3. Event Coordinator of SHECODERESS v0.1, the first- ever women hackathon in Sri Lanka
+
+### Domain:
+1. SAP
+2. Payment
+3. Manufacturing
+4. Logistics and Warehouse Management
+5. Bereavements
+
+   
