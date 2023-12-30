@@ -265,18 +265,31 @@ Please find blow recommendations taken from my Linkden Profile.
 
 ### Business Analysis Artifacts:
 1) UML Diagrams
+   *Activity Diagram*
 ![Copy of opuspay registration process v0 2](https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/ce3a3689-cf82-4226-a7fd-466e82ddccaf)
 
+   *Sequence Diagram*
 ![Copy of OpusPay - Hosted Payment Page - Sequence Diagram](https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/cfaf2d01-3644-4672-8e98-61738342ade5)
 
    
 3) Mind Map
-   -coming soon-
-5) User Stories
-   -coming soon-
-7) Wireframes
-   -coming soon-
 
+![opuspay KT - Page 2 (1)](https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/ff092896-7f64-4959-a72d-5c3add9b7611)
+
+
+  
+5) User Stories
+
+  <img width="968" alt="image" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/0398deb4-ae9e-4a9a-9ea1-ef99c96e2f86">
+
+
+6) Persona
+
+<img width="399" alt="image" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/537dca0f-46a2-4693-aa06-d9d9c7c28705">
+
+8) Wireframes
+
+<img width="358" alt="image" src="https://github.com/ayesha-ba/ayesha-ba.github.io/assets/150318226/2cb78471-c333-49fc-8a03-25acc1ab8570">
 
 
 ### Extra Curricular Activities:
@@ -285,4 +298,3 @@ Please find blow recommendations taken from my Linkden Profile.
 3. Event Coordinator of SHECODERESS v0.1, the first- ever women hackathon in Sri Lanka
 
 
-   
